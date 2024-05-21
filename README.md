@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Rav
 - 👀 I’m interested in coding in Python
-- 🌱 I’m currently trying to strenthen my coding skills 
+- 🌱 I’m currently working on strengthening my coding skills 
 - 📫 You can reach with your coding suggestions on my email
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Learning is the easiest and most difficult task on Earth!
